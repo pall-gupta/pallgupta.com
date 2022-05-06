@@ -5530,7 +5530,7 @@ html.w-mod-js [data-ix=slide-right] {
 	.section {
 		width: 100%;
 		min-width: auto;
-		padding: 80px 32px
+		padding:  32px
 	}
 
 	.section.section--full.section--alcohol,
@@ -6563,7 +6563,7 @@ html.w-mod-js [data-ix=slide-right] {
 
 	.project__text-container.project__text-container--chef {
 		min-width: 160px;
-		margin-top: 6vh
+		margin-top: 35vh
 	}
 
 	.project__text-container.project__text-container--bripe,
@@ -6584,7 +6584,7 @@ html.w-mod-js [data-ix=slide-right] {
 	.project__text-container.project__text-container--mate,
 	.project__text-container.project__text-container--poliloq {
 		min-width: 160px;
-		margin-top: 6vh
+		margin-top: 35vh
 	}
 
 	.project__text-container.project__text-container--tangam {
@@ -6659,8 +6659,8 @@ html.w-mod-js [data-ix=slide-right] {
 	}
 
 	.project__device.project__device--light {
-		width: 80vw;
-		margin-bottom: 56vh
+		width: 72vw;
+		margin-bottom: 60vh
 	}
 
 	.project__device.project__device--light:hover {
