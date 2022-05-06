@@ -2303,8 +2303,8 @@ figcaption {
 
 .left {
 	width: 50%;
-	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(88%, transparent), to(#0c0c0c)), url("../Aaron\ Rudyk\'s\ Portfolio_files/pg.png"), radial-gradient(circle closest-side at 50% 50%, rgba(0, 0, 0, .3), transparent);
-	background-image: linear-gradient(180deg, transparent 88%, #0c0c0c), url("../Aaron\ Rudyk\'s\ Portfolio_files/pg.png"), radial-gradient(circle closest-side at 50% 50%, rgba(0, 0, 0, .3), transparent);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(88%, transparent), to(#0c0c0c)), url("pg.png"), radial-gradient(circle closest-side at 50% 50%, rgba(0, 0, 0, .3), transparent);
+	background-image: linear-gradient(180deg, transparent 88%, #0c0c0c), url("pg.png"), radial-gradient(circle closest-side at 50% 50%, rgba(0, 0, 0, .3), transparent);
 	background-position: 0 0, 50% 50%, 0 0;
 	background-size: auto, contain, auto;
 	background-repeat: repeat, no-repeat, repeat;
@@ -5228,7 +5228,7 @@ html.w-mod-js [data-ix=slide-right] {
 
 @media screen and (max-width:991px) {
 	.left {
-		background-image: url("https://assets.website-files.com/5a559011ea211300011ba0b9/5bdffb9688110a602babfda4_aaron%20facefull%20purple4.png"), radial-gradient(circle closest-side at 50% 50%, rgba(0, 0, 0, .3), transparent);
+		background-image: url("pg.png"), radial-gradient(circle closest-side at 50% 50%, rgba(0, 0, 0, .3), transparent);
 		background-position: 50% 50%, 0 0;
 		background-size: contain, auto;
 		background-repeat: no-repeat, repeat
@@ -6412,7 +6412,7 @@ html.w-mod-js [data-ix=slide-right] {
 		z-index: 1;
 		width: 100%;
 		height: 64vh;
-		background-image: url("https://assets.website-files.com/5a559011ea211300011ba0b9/5bdffb9688110a602babfda4_aaron%20facefull%20purple4.png"), radial-gradient(circle closest-side at 50% 50%, #000, transparent);
+		background-image: url("pg.png"), radial-gradient(circle closest-side at 50% 50%, #000, transparent);
 		background-position: 50% 50%, 0 0;
 		background-size: contain, auto;
 		background-repeat: no-repeat, repeat
